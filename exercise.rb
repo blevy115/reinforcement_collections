@@ -5,7 +5,6 @@ fr = ['un','deux','trois','quatre','cinq','six','sept','huit','neuf']
 hash = {}
 inside_hash = {}
 
-combo = en+fr
 digits.each_with_index do |digit, index|
 
   n1 = fr[index]
